@@ -1,0 +1,7 @@
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\bin\Debug\CommonDigit.exe.config
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\bin\Debug\CommonDigit.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\bin\Debug\CommonDigit.pdb
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\obj\Debug\CommonDigit.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\obj\Debug\CommonDigit.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\obj\Debug\CommonDigit.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\CommonDigit\CommonDigit\obj\Debug\CommonDigit.pdb
